@@ -1,4 +1,4 @@
-# HuyChat-chat-third-party-libraries
+# HuyChat-third-party-libraries
 Tổng hợp những thư viện bên thứ 3 sử dụng cho dự án HuyChat.
 
 Repo này lưu trữ những thư viện với chính xác các phiên bản như sau:
