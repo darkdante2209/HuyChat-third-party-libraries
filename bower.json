@@ -1,0 +1,14 @@
+{
+  "name": "bower_components",
+  "version": "1.0.1",
+  "authors": [
+    "Pham Minh Huy <pmhuy2209@gmail.com>"
+  ],
+  "description": "Tổng hợp những thư viện bên thứ 3 sử dụng cho đồ án tốt nghiệp HuyChat",
+  "main": "/",
+  "keywords": [
+    "huychat-third-party-libraries"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/darkdante2209/HuyChat-third-party-libraries"
+}
