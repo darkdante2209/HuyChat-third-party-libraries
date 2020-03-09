@@ -1,5 +1,7 @@
 # HuyChat-third-party-libraries
-Tổng hợp những thư viện bên thứ 3 sử dụng cho dự án HuyChat.
+Tổng hợp những thư viện bên thứ 3 sử dụng cho đồ án tốt nghiệp HuyChat.
+
+Phạm Minh Huy - Information Technology 14 - Military Technical Academy
 
 Repo này lưu trữ những thư viện với chính xác các phiên bản như sau:
 
